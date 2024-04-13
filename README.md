@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Kalpanabharath
-- 👀 I’m interested in  front end development 
+- certified Front-end developer and Ui/Ux designer from great learning.
+- I have HTML development internship Experience in silver dollar technology private limited, coimbatore.
 - 🌱 I’m currently learning React-Js 
-- 🙂I have a skill set in html ,css javascript ,ReactJs ,bootstrap,git,github .
+- 🙂I have a skill set in html ,css javascript,ReactJs,bootstrap,git,github.
 - 👩🏻‍💻 profilo link https://kalpanabharath.github.io/profilo/
 
 <!---
