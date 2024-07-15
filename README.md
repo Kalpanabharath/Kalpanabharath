@@ -3,7 +3,7 @@
 - I have HTML development internship Experience in silver dollar technology private limited, coimbatore.
 - 🌱 I’m currently learning React-Js 
 - 🙂I have a skill set in html ,css javascript,ReactJs,bootstrap,git,github.
-- 👩🏻‍💻 profilo link https://kalpanabharath.github.io/profilo/
+- 👩🏻‍💻 profilo link https://profilo-hazel.vercel.app
 
 <!---
 Kalpanabharath/Kalpanabharath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
